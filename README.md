@@ -42,5 +42,3 @@ Contact
 - GitHub: "@abubakar-bello-gotomo" (https://github.com/abubakar-bello-gotomo)
 
 I'm open to connecting with professionals and collaborating on suitable healthcare research and data-related projects.
-# healthcare-research-data-portfolio
-A portfolio of practical projects in healthcare research, data analysis, and visualization.
